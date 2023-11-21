@@ -1,5 +1,5 @@
 {
-  "name": "console.lol",
+  "name": "@stffm/console.lol",
   "version": "1.0.0",
   "description": "console is loggin lol",
   "main": "index.js",
