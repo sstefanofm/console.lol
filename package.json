@@ -1,0 +1,26 @@
+{
+  "name": "console.lol",
+  "version": "1.0.0",
+  "description": "console is loggin lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sstefanofm/console.lol.git"
+  },
+  "keywords": [
+    "console",
+    "lol",
+    "log",
+    "lolcat"
+  ],
+  "author": "sstefanofm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstefanofm/console.lol/issues"
+  },
+  "homepage": "https://github.com/sstefanofm/console.lol#readme"
+}
