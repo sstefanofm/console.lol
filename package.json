@@ -1,12 +1,11 @@
 {
   "name": "@stffm/console.lol",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "console is loggin lol",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "publish": "npm publish --access public && git push origin master"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
