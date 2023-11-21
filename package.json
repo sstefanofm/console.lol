@@ -1,6 +1,6 @@
 {
   "name": "@stffm/console.lol",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "console is loggin lol",
   "main": "index.js",
   "scripts": {
